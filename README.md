@@ -1,12 +1,26 @@
-# OIB-SIP
-This repository showcases the work I did during my data science internship at Oasis Infobyte. Throughout the internship, I worked on various
-projects that involved data analysis, machine learning, and data visualization. The experience helped me hone my technical skills and gain 
-practical knowledge in the field of data science.
+# Sales Prediction Project 
+This project aims to predict product sales using advanced machine learning techniques. The goal is to understand how different factors like advertising spend and the platform used for advertising affect sales.
 
-Technologies Used :
+# Project Highlights
+Technologies: Python, scikit-learn, pandas, NumPy, matplotlib
+
+Model: Implemented a Linear Regression model with transformed polynomial features, making it a Polynomial Regression for enhanced accuracy.
+
+# Performance Metrics:
+
+Mean Absolute Error (MAE): 0.5493
+
+Mean Squared Error (MSE): 0.7749
+
+R-squared (R²): 0.97167
+
+# Technologies Used:
 Python
-Pandas
+
+scikit-learn
+
+pandas
+
 NumPy
-Matplotlib
-Seaborn
-Scikit-learn
+
+matplotlib
