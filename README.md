@@ -12,6 +12,9 @@ Create insightful visualizations, such as heatmaps and time series graphs, to hi
 
 # Technologies Used:
 Python
+
 pandas
+
 NumPy
+
 matplotlib
